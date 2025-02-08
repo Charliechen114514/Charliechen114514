@@ -1,4 +1,4 @@
-# Hello! Here's Charliechen ![]("https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif")
+# Hello! Here's Charliechen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 Here are some ideas to get you started:
 
