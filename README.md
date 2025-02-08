@@ -13,12 +13,12 @@ I'm Charliechen114514, Who is majoring in Native C/C++ Programming (But now most
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charliechen114514&layout=compact)
 
-- My Beloved Operating System ​我​喜欢​的​操作系统:arrow_right:![](https://img.shields.io/badge/OS-Arch_Linux-informational?logo=archlinux&logoColor=#1793D1&color=#1793D1)![](https://img.shields.io/badge/OS-Ubuntu-informational?logo=ubuntu&logoColor=#E95420)
-- My Beloved Editor​ 我中意​的​编辑器​和​IDE:arrow_right:![](https://img.shields.io/badge/Editor-Vscode-blue)![](https://img.shields.io/badge/Editor-Qt_Creator-blue),and some case ![](https://img.shields.io/badge/Editor-Vim-informational?logo=vim&logoColor=#019733)
-- My Working Language ​我​正在​使用​的​语言:arrow_right: ![](https://img.shields.io/badge/Lang-C-informational?logo=C&logoColor=#A8B9CC&color=#A8B9CC)![](https://img.shields.io/badge/Lang-C++-informational?logo=cplusplus&logoColor=#A8B9CC&color=#A8B9CC)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=#3776AB&color=2bbc8a)
-- My Beloved Shell ​我​的​终端是:arrow_right: ![](https://img.shields.io/badge/Shell-Bash-informational?logo=gnubash&logoColor=#4EAA25&color=#A8B9CC)![](https://img.shields.io/badge/Shell-Fish-informational?logo=fishshell&logoColor=#34C534&color=#A8B9CC)
+- My Beloved Operating System ​我​喜欢​的​操作系统 :arrow_right: ![](https://img.shields.io/badge/OS-Arch_Linux-informational?logo=archlinux&logoColor=#1793D1&color=#1793D1)![](https://img.shields.io/badge/OS-Ubuntu-informational?logo=ubuntu&logoColor=#E95420)
+- My Beloved Editor​ 我中意​的​编辑器​和​IDE :arrow_right: ![](https://img.shields.io/badge/Editor-Vscode-blue)![](https://img.shields.io/badge/Editor-Qt_Creator-blue),and some case ![](https://img.shields.io/badge/Editor-Vim-informational?logo=vim&logoColor=#019733)
+- My Working Language ​我​正在​使用​的​语言 :arrow_right:  ![](https://img.shields.io/badge/Lang-C-informational?logo=C&logoColor=#A8B9CC&color=#A8B9CC)![](https://img.shields.io/badge/Lang-C++-informational?logo=cplusplus&logoColor=#A8B9CC&color=#A8B9CC)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=#3776AB&color=2bbc8a)
+- My Beloved Shell ​我​的​终端是 :arrow_right:  ![](https://img.shields.io/badge/Shell-Bash-informational?logo=gnubash&logoColor=#4EAA25&color=#A8B9CC)![](https://img.shields.io/badge/Shell-Fish-informational?logo=fishshell&logoColor=#34C534&color=#A8B9CC)
 - My Now Studying Architechure 正在研究和学习的架构 :arrow_right:  ![](https://img.shields.io/badge/Arch-Intel__x86__64-informational?logo=intel&logoColor=#0071C5&color=#A8B9CC)![](https://img.shields.io/badge/Arch-Arm-informational?logo=arm&logoColor=#0091BD&color=#A8B9CC)![](https://img.shields.io/badge/Arch-RISC__V-informational?logo=riscv&logoColor=#283272&color=#A8B9CC)
-- My Now Working Programming FrameWork 我正在使用的编程架构:arrow_right: ![](https://img.shields.io/badge/FrameWrok-Qt-informational?logo=qt&logoColor=#283272&color=#A8B9CC)
+- My Now Working Programming FrameWork 我正在使用的编程架构 :arrow_right:  ![](https://img.shields.io/badge/FrameWrok-Qt-informational?logo=qt&logoColor=#283272&color=#A8B9CC)
 
 ## About My Blog
 
