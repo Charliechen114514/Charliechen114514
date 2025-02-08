@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Charliechen114514/Charliechen114514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! Here's Charliechen <img src="https://raw.githubusercontent.com/Charliechen/Charliechen/master/wave.gif" width="30px">
 
 Here are some ideas to get you started:
 
