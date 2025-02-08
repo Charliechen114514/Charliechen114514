@@ -1,4 +1,4 @@
-# Hello! Here's Charliechen <img src="https://raw.githubusercontent.com/Charliechen114154/Charliechen114154/main/wave.gif" width="30px" height="30px" />
+# Hello! Here's Charliechen <img src="https://github.com/Charliechen114514/Charliechen114514/blob/main/wave.gif" width="30px" height="30px" />
 
 Here are some ideas to get you started:
 
