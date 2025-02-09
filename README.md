@@ -33,8 +33,11 @@ I'm Charliechen114514, Who is majoring in Native C/C++ Programming (But now most
 ​	Warmly Welcomes Everyone to visit! 超级欢迎各位大爹莅临！
 
 ## About My Representative Works
+- Tutorials repos including C Data Structure And Operating System, I am now handling..., but will update these days!
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charliechen114514&repo=CCOperateSystem)](https://github.com/Charliechen114514/CCOperateSystem)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charliechen114514&repo=From-0-To1-Tutorials-for-ds-algorithm-lib-in-C)](https://github.com/Charliechen114514/From-0-To1-Tutorials-for-ds-algorithm-lib-in-C)
 
-- CCPDF_View is a simple PDF Browser
+- CCPDF_View is a simple PDF Browser, You can make different builds for your suitable cases. porjects written in Qt C++
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charliechen114514&repo=CCPDF_View)](https://github.com/Charliechen114514/CCPDF_View)
 
