@@ -33,21 +33,28 @@ I'm Charliechen114514, Who is majoring in Native C/C++ Programming (But now most
 ​	Warmly Welcomes Everyone to visit! 超级欢迎各位大爹莅临！
 
 ## About My Representative Works
-- Tutorials repos including C Data Structure And Operating System, I am now handling..., but will update these days!
+
+- CCOperating System is a tiny operating system which is compatible in 80386 CPU(typically), and with full support of documnetations(Chinese Only Now),
+  And is enable to run using modern toolchains in Ubuntu24.04, Arch Linux and WSL(Personal Test Only)
+  CCOperating System是一个迷你的可运行在80386CPU上的操作系统，有完备的文档和设计思路可供各位批判，参考和学习（文档本身目前只有中文），在 Ubuntu24.04, Arch Linux and WSL上测试通过可以运行！
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charliechen114514&repo=CCOperateSystem)](https://github.com/Charliechen114514/CCOperateSystem)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charliechen114514&repo=From-0-To1-Tutorials-for-ds-algorithm-lib-in-C)](https://github.com/Charliechen114514/From-0-To1-Tutorials-for-ds-algorithm-lib-in-C)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charliechen114514&repo=CCOperateSystem)](https://github.com/Charliechen114514/CCOperateSystem)
+- CCIMX_Desktop is a simple Qt6 Based Desktop running in I.MX6ULL Machines and with builtin or self-defined enabled Desktop Envoriments, Tested Success on Running in I.MX6ULL with 6.12.3 Kernel, 2024-04 Uboot with Qt6.8.3 Bases, projects is using Qt6 C++ with CMakeLists build
+  CCIMX_Desktop是一个简单的运行在I.MX6ULL处理器上的，基于Qt6的小桌面，而且带有基本的桌面Application支持，目前支持在具备MSVC（Windows），GCC（*nix）和ARM32环境编译的支持，测试成功的环境是I.MX6ULL + 6.12.3内核，使用2024-04uboot启动的环境（这里涉及到内核版本带来的驱动支持问题，故提及），项目使用Qt6 C++ 编写，CMakelists构建
 
-- CCPDF_View is a simple PDF Browser, You can make different builds for your suitable cases. porjects written in Qt C++
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charliechen114514&repo=CCIMXDesktop)](https://github.com/Charliechen114514/CCIMXDesktop)
 
+- CCPDF_View is a simple PDF Browser, You can make different builds for your suitable cases. projects written in Qt C++
+  CCPDF_View是一个简单的基于Qt6 PDF的PDF浏览器，你可以结合你自己的场景自由创建，项目使用C++编写
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charliechen114514&repo=CCPDF_View)](https://github.com/Charliechen114514/CCPDF_View)
 
 - AutoHandDatasetGenerator is a simple hand dataset capture tools written in PySide6, using it for any model trainning about hands!
+  自动手势捕捉数据生成器是一个简单的手势数据生成器，使用Pyside6进行编写！使用它从而为任何手势识别模型训练提供快速生成数据集的方式！
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charliechen114514&repo=AutoHandDatasetGenerator)](https://github.com/Charliechen114514/AutoHandDatasetGenerator)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charliechen114514&repo=AutoHandDatasetGenerator)](https://github.com/Charliechen114514/AutoHandDatasetGenerator)
 
 - Common_Peripheral_STLibrary is a micro unit library wriiten in typical C, for the must common Peripheral driven by ST Micro chips!
-
+  Common_Peripheral_STLibrary是一个使用经典C编写的，为大部分常见外设和ST微处理器（STM32）编写的库！
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charliechen114514&repo=Common_Peripheral_STLibrary )](https://github.com/Charliechen114514/Common_Peripheral_STLibrary )
 
 ## Many Thanks To
