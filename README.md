@@ -29,6 +29,7 @@ I'm Charliechen114514, Who is majoring in Native C/C++ Programming (But now most
 - :link: [charlie114514191-CSDN博客](https://blog.csdn.net/charlie114514191)
 - :link: [charliechen114514 - 博客园 (cnblogs.com)](https://www.cnblogs.com/charliechen114514-blogs)
 - :link: ​[Hello World! - Just Keep going forward!](https://charliechen114514.github.io/)
+- :link: [Hello World! - Just Keep going forward!](https://www.charliechen114514.tech/)(这是我的新博客地址，上面的已经Archive了（悲）)
 
 ​	Warmly Welcomes Everyone to visit! 超级欢迎各位大爹莅临！
 
