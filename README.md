@@ -7,11 +7,16 @@ I'm Charliechen114514, Who is majoring in Native C/C++ Programming (But now most
 
 ## About My Current Github Stats...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charliechen114514&hide=contribs,prs)
+<!-- GitHub Stats — 使用备用实例，稳定性更好 -->
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Charliechen114514&hide=contribs,prs&show_icons=true&theme=default)
+
+<!-- GitHub 连续提交 Streak — demolab 实例非常稳定 -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Charliechen114514)](https://git.io/streak-stats)
 
 ## About my Techs and preferences
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charliechen114514&layout=compact)
+<!-- Top Languages — 同样使用备用实例 -->
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Charliechen114514&layout=compact)
 
 - My Beloved Operating System ​我​喜欢​的​操作系统 :arrow_right: ![](https://img.shields.io/badge/OS-Arch_Linux-informational?logo=archlinux&logoColor=#1793D1&color=#1793D1)![](https://img.shields.io/badge/OS-Ubuntu-informational?logo=ubuntu&logoColor=#E95420)
 - My Beloved Editor​ 我中意​的​编辑器​和​IDE :arrow_right: ![](https://img.shields.io/badge/Editor-Vscode-blue)![](https://img.shields.io/badge/Editor-Qt_Creator-blue),and some case ![](https://img.shields.io/badge/Editor-Vim-informational?logo=vim&logoColor=#019733)
@@ -39,24 +44,27 @@ I'm Charliechen114514, Who is majoring in Native C/C++ Programming (But now most
   And is enable to run using modern toolchains in Ubuntu24.04, Arch Linux and WSL(Personal Test Only)
   CCOperating System是一个迷你的可运行在80386CPU上的操作系统，有完备的文档和设计思路可供各位批判，参考和学习（文档本身目前只有中文），在 Ubuntu24.04, Arch Linux and WSL上测试通过可以运行！
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charliechen114514&repo=CCOperateSystem)](https://github.com/Charliechen114514/CCOperateSystem)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Charliechen114514&repo=CCOperateSystem)](https://github.com/Charliechen114514/CCOperateSystem)
+
 - CCIMX_Desktop is a simple Qt6 Based Desktop running in I.MX6ULL Machines and with builtin or self-defined enabled Desktop Envoriments, Tested Success on Running in I.MX6ULL with 6.12.3 Kernel, 2024-04 Uboot with Qt6.8.3 Bases, projects is using Qt6 C++ with CMakeLists build
   CCIMX_Desktop是一个简单的运行在I.MX6ULL处理器上的，基于Qt6的小桌面，而且带有基本的桌面Application支持，目前支持在具备MSVC（Windows），GCC（*nix）和ARM32环境编译的支持，测试成功的环境是I.MX6ULL + 6.12.3内核，使用2024-04uboot启动的环境（这里涉及到内核版本带来的驱动支持问题，故提及），项目使用Qt6 C++ 编写，CMakelists构建
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charliechen114514&repo=CCIMXDesktop)](https://github.com/Charliechen114514/CCIMXDesktop)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Charliechen114514&repo=CCIMXDesktop)](https://github.com/Charliechen114514/CCIMXDesktop)
 
 - CCPDF_View is a simple PDF Browser, You can make different builds for your suitable cases. projects written in Qt C++
   CCPDF_View是一个简单的基于Qt6 PDF的PDF浏览器，你可以结合你自己的场景自由创建，项目使用C++编写
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charliechen114514&repo=CCPDF_View)](https://github.com/Charliechen114514/CCPDF_View)
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Charliechen114514&repo=CCPDF_View)](https://github.com/Charliechen114514/CCPDF_View)
 
 - AutoHandDatasetGenerator is a simple hand dataset capture tools written in PySide6, using it for any model trainning about hands!
   自动手势捕捉数据生成器是一个简单的手势数据生成器，使用Pyside6进行编写！使用它从而为任何手势识别模型训练提供快速生成数据集的方式！
 
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charliechen114514&repo=AutoHandDatasetGenerator)](https://github.com/Charliechen114514/AutoHandDatasetGenerator)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Charliechen114514&repo=AutoHandDatasetGenerator)](https://github.com/Charliechen114514/AutoHandDatasetGenerator)
 
 - Common_Peripheral_STLibrary is a micro unit library wriiten in typical C, for the must common Peripheral driven by ST Micro chips!
   Common_Peripheral_STLibrary是一个使用经典C编写的，为大部分常见外设和ST微处理器（STM32）编写的库！
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Charliechen114514&repo=Common_Peripheral_STLibrary )](https://github.com/Charliechen114514/Common_Peripheral_STLibrary )
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Charliechen114514&repo=Common_Peripheral_STLibrary)](https://github.com/Charliechen114514/Common_Peripheral_STLibrary)
 
 ## Many Thanks To
 
@@ -69,4 +77,3 @@ I'm Charliechen114514, Who is majoring in Native C/C++ Programming (But now most
 - My README Profile Reference
   - [MartinHeinz/MartinHeinz: My GitHub Profile README. Don't just fork, star it, so others can find it too! 👀](https://github.com/MartinHeinz/MartinHeinz)
   - [anuraghazra/github-readme-stats: :zap: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats)
-
