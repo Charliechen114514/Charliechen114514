@@ -1,29 +1,71 @@
 # Hello! Here's Charliechen <img src="https://github.com/Charliechen114514/Charliechen114514/blob/main/wave.gif" width="30px" height="30px" />
 
-I'm Charliechen114514, Who is majoring in Native C/C++ Programming (But now mostly in GNU C with its extension lol), Qt6 GUI Application Programming, Operating System (specially the Linux Kernel) learning, Computer Architechure designing and specially the Embedded Application programming For ST Micro Chips And ESP32
+I'm Charliechen114514, Who is majoring in Native C/C++ Programming (But now mostly in GNU C with its extension lol), Qt6 GUI Application Programming, Operating System (specially the Linux Kernel) learning, Computer Architecture designing and specially the Embedded Application programming For ST Micro Chips And ESP32
 
 你好！我是Charliechen114514，我的编程领域工作涉及到了经典C, C++编程（好吧，自从搞了内核就是GNU C和它的拓展）,以及Qt6的GUI编程，操作系统（特别是Linux内核）和计算机架构研究。当然，少不了我的本职工作嵌入式软件。笔者使用的单片机更多是STM32F系列的单片机和ESP32作为研究的Chips
 
+## Organizations
+
+### CinuxOS
+A custom x86_64 operating system project built with modern C/C++ features — 用现代 C/C++ 特性构建的 x86_64 操作系统
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CinuxOS&repo=Cinux)](https://github.com/CinuxOS/Cinux)
+
+### Awesome-Embedded-Learning-Studio
+An open-source community for embedded systems learning, covering Modern C++, Qt6, MCU drivers, and Embedded Linux — 面向嵌入式学习的开源社区，涵盖现代C++、Qt6、单片机驱动与嵌入式Linux
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=Awesome-Embedded)](https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded)
 
 ## About My Current Github Stats...
 
-<!-- GitHub Stats — 使用备用实例，稳定性更好 -->
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Charliechen114514&hide=contribs,prs&show_icons=true&theme=default)
 
-<!-- GitHub 连续提交 Streak — demolab 实例非常稳定 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Charliechen114514)](https://git.io/streak-stats)
 
 ## About my Techs and preferences
 
-<!-- Top Languages — 同样使用备用实例 -->
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Charliechen114514&layout=compact)
 
-- My Beloved Operating System ​我​喜欢​的​操作系统 :arrow_right: ![](https://img.shields.io/badge/OS-Arch_Linux-informational?logo=archlinux&logoColor=#1793D1&color=#1793D1)![](https://img.shields.io/badge/OS-Ubuntu-informational?logo=ubuntu&logoColor=#E95420)
-- My Beloved Editor​ 我中意​的​编辑器​和​IDE :arrow_right: ![](https://img.shields.io/badge/Editor-Vscode-blue)![](https://img.shields.io/badge/Editor-Qt_Creator-blue),and some case ![](https://img.shields.io/badge/Editor-Vim-informational?logo=vim&logoColor=#019733)
-- My Working Language ​我​正在​使用​的​语言 :arrow_right:  ![](https://img.shields.io/badge/Lang-C-informational?logo=C&logoColor=#A8B9CC&color=#A8B9CC)![](https://img.shields.io/badge/Lang-C++-informational?logo=cplusplus&logoColor=#A8B9CC&color=#A8B9CC)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=#3776AB&color=2bbc8a)
-- My Beloved Shell ​我​的​终端是 :arrow_right:  ![](https://img.shields.io/badge/Shell-Bash-informational?logo=gnubash&logoColor=#4EAA25&color=#A8B9CC)![](https://img.shields.io/badge/Shell-Fish-informational?logo=fishshell&logoColor=#34C534&color=#A8B9CC)
-- My Now Studying Architechure 正在研究和学习的架构 :arrow_right:  ![](https://img.shields.io/badge/Arch-Intel__x86__64-informational?logo=intel&logoColor=#0071C5&color=#A8B9CC)![](https://img.shields.io/badge/Arch-Arm-informational?logo=arm&logoColor=#0091BD&color=#A8B9CC)![](https://img.shields.io/badge/Arch-RISC__V-informational?logo=riscv&logoColor=#283272&color=#A8B9CC)
+- My Beloved Operating System 我喜欢的操作系统 :arrow_right: ![](https://img.shields.io/badge/OS-Arch_Linux-informational?logo=archlinux&logoColor=#1793D1&color=#1793D1)![](https://img.shields.io/badge/OS-Ubuntu-informational?logo=ubuntu&logoColor=#E95420)
+- My Beloved Editor 我中意的编辑器和IDE :arrow_right: ![](https://img.shields.io/badge/Editor-Vscode-blue)![](https://img.shields.io/badge/Editor-Qt_Creator-blue),and some case ![](https://img.shields.io/badge/Editor-Vim-informational?logo=vim&logoColor=#019733)
+- My Working Language 我正在使用的语言 :arrow_right:  ![](https://img.shields.io/badge/Lang-C-informational?logo=C&logoColor=#A8B9CC&color=#A8B9CC)![](https://img.shields.io/badge/Lang-C++-informational?logo=cplusplus&logoColor=#A8B9CC&color=#A8B9CC)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=#3776AB&color=2bbc8a)
+- My Beloved Shell 我的终端是 :arrow_right:  ![](https://img.shields.io/badge/Shell-Bash-informational?logo=gnubash&logoColor=#4EAA25&color=#A8B9CC)![](https://img.shields.io/badge/Shell-Fish-informational?logo=fishshell&logoColor=#34C534&color=#A8B9CC)
+- My Now Studying Architecture 正在研究和学习的架构 :arrow_right:  ![](https://img.shields.io/badge/Arch-Intel__x86__64-informational?logo=intel&logoColor=#0071C5&color=#A8B9CC)![](https://img.shields.io/badge/Arch-Arm-informational?logo=arm&logoColor=#0091BD&color=#A8B9CC)![](https://img.shields.io/badge/Arch-RISC__V-informational?logo=riscv&logoColor=#283272&color=#A8B9CC)
 - My Now Working Programming FrameWork 我正在使用的编程架构 :arrow_right:  ![](https://img.shields.io/badge/FrameWrok-Qt-informational?logo=qt&logoColor=#283272&color=#A8B9CC)
+
+## Featured Projects
+
+- **Tutorial_AwesomeModernCPP** — A systematic modern C++ tutorial covering C++11–C++23, STL, concurrency, and performance optimization | 系统化现代 C++ 教程，覆盖 C++11–C++23、STL、并发与性能优化
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=Tutorial_AwesomeModernCPP)](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_AwesomeModernCPP)
+
+- **imx-forge** — Templated i.MX6ULL build resources with uboot, kernel, and rootfs patches for fast deployment | i.MX6ULL 一键构建模板，包含 uboot、内核与根文件系统补丁
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=imx-forge)](https://github.com/Awesome-Embedded-Learning-Studio/imx-forge)
+
+- **Tutorial_AwesomeQt** — A Qt 6 encyclopedia-style tutorial for C++ developers, 118 beginner articles completed | 面向 C++ 开发者的 Qt 6 百科全书式教程，入门层 118 篇已完结
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=Tutorial_AwesomeQt)](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_AwesomeQt)
+
+- **anatomy_gui** — Open-source UI programming anatomy tutorials, dissecting how GUI frameworks work under the hood | UI 编程解剖式教程，拆解 GUI 框架底层原理
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Charliechen114514&repo=anatomy_gui)](https://github.com/Charliechen114514/anatomy_gui)
+
+- **Cinux** — An x86_64 operating system built with modern C/C++ features | 用现代 C/C++ 特性构建的 x86_64 操作系统
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Charliechen114514&repo=Cinux)](https://github.com/Charliechen114514/Cinux)
+
+- **Awesome-Embedded** — The central hub of Awesome-Embedded-Learning-Studio, directory to all embedded learning sub-projects | Awesome-Embedded-Learning-Studio 中心仓库，嵌入式学习项目总目录
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=Awesome-Embedded)](https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded)
+
+- **CCOperateSystem** — A tutorial teaching you how to build an OS with modern tools (gcc, nasm, bochs), targeting 80386 CPU | 使用现代工具链（gcc/nasm/bochs）教你写操作系统的教程，目标平台 80386
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Charliechen114514&repo=CCOperateSystem)](https://github.com/Charliechen114514/CCOperateSystem)
+
+- **CCIMXDesktop** — A Qt6-based desktop environment for embedded devices, tested on i.MX6ULL with Linux 6.12.3 kernel | 基于 Qt6 的嵌入式桌面环境，在 I.MX6ULL + Linux 6.12.3 内核上测试通过
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Charliechen114514&repo=CCIMXDesktop)](https://github.com/Charliechen114514/CCIMXDesktop)
 
 ## About My Blog
 
@@ -37,34 +79,6 @@ I'm Charliechen114514, Who is majoring in Native C/C++ Programming (But now most
 - :link: [Hello World! - Just Keep going forward!](https://www.charliechen114514.tech/)(这是我的新博客地址，上面的已经Archive了（悲）)
 
 ​	Warmly Welcomes Everyone to visit! 超级欢迎各位大爹莅临！
-
-## About My Representative Works
-
-- CCOperating System is a tiny operating system which is compatible in 80386 CPU(typically), and with full support of documnetations(Chinese Only Now),
-  And is enable to run using modern toolchains in Ubuntu24.04, Arch Linux and WSL(Personal Test Only)
-  CCOperating System是一个迷你的可运行在80386CPU上的操作系统，有完备的文档和设计思路可供各位批判，参考和学习（文档本身目前只有中文），在 Ubuntu24.04, Arch Linux and WSL上测试通过可以运行！
-  
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Charliechen114514&repo=CCOperateSystem)](https://github.com/Charliechen114514/CCOperateSystem)
-
-- CCIMX_Desktop is a simple Qt6 Based Desktop running in I.MX6ULL Machines and with builtin or self-defined enabled Desktop Envoriments, Tested Success on Running in I.MX6ULL with 6.12.3 Kernel, 2024-04 Uboot with Qt6.8.3 Bases, projects is using Qt6 C++ with CMakeLists build
-  CCIMX_Desktop是一个简单的运行在I.MX6ULL处理器上的，基于Qt6的小桌面，而且带有基本的桌面Application支持，目前支持在具备MSVC（Windows），GCC（*nix）和ARM32环境编译的支持，测试成功的环境是I.MX6ULL + 6.12.3内核，使用2024-04uboot启动的环境（这里涉及到内核版本带来的驱动支持问题，故提及），项目使用Qt6 C++ 编写，CMakelists构建
-
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Charliechen114514&repo=CCIMXDesktop)](https://github.com/Charliechen114514/CCIMXDesktop)
-
-- CCPDF_View is a simple PDF Browser, You can make different builds for your suitable cases. projects written in Qt C++
-  CCPDF_View是一个简单的基于Qt6 PDF的PDF浏览器，你可以结合你自己的场景自由创建，项目使用C++编写
-
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Charliechen114514&repo=CCPDF_View)](https://github.com/Charliechen114514/CCPDF_View)
-
-- AutoHandDatasetGenerator is a simple hand dataset capture tools written in PySide6, using it for any model trainning about hands!
-  自动手势捕捉数据生成器是一个简单的手势数据生成器，使用Pyside6进行编写！使用它从而为任何手势识别模型训练提供快速生成数据集的方式！
-
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Charliechen114514&repo=AutoHandDatasetGenerator)](https://github.com/Charliechen114514/AutoHandDatasetGenerator)
-
-- Common_Peripheral_STLibrary is a micro unit library wriiten in typical C, for the must common Peripheral driven by ST Micro chips!
-  Common_Peripheral_STLibrary是一个使用经典C编写的，为大部分常见外设和ST微处理器（STM32）编写的库！
-
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Charliechen114514&repo=Common_Peripheral_STLibrary)](https://github.com/Charliechen114514/Common_Peripheral_STLibrary)
 
 ## Many Thanks To
 
