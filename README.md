@@ -4,18 +4,6 @@ I'm Charliechen114514, Who is majoring in Native C/C++ Programming (But now most
 
 你好！我是Charliechen114514，我的编程领域工作涉及到了经典C, C++编程（好吧，自从搞了内核就是GNU C和它的拓展）,以及Qt6的GUI编程，操作系统（特别是Linux内核）和计算机架构研究。当然，少不了我的本职工作嵌入式软件。笔者使用的单片机更多是STM32F系列的单片机和ESP32作为研究的Chips
 
-## Organizations
-
-### CinuxOS
-A custom x86_64 operating system project built with modern C/C++ features — 用现代 C/C++ 特性构建的 x86_64 操作系统
-
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CinuxOS&repo=Cinux)](https://github.com/CinuxOS/Cinux)
-
-### Awesome-Embedded-Learning-Studio
-An open-source community for embedded systems learning, covering Modern C++, Qt6, MCU drivers, and Embedded Linux — 面向嵌入式学习的开源社区，涵盖现代C++、Qt6、单片机驱动与嵌入式Linux
-
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=Awesome-Embedded)](https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded)
-
 ## About My Current Github Stats...
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Charliechen114514&hide=contribs,prs&show_icons=true&theme=default)
@@ -32,6 +20,21 @@ An open-source community for embedded systems learning, covering Modern C++, Qt6
 - My Beloved Shell 我的终端是 :arrow_right:  ![](https://img.shields.io/badge/Shell-Bash-informational?logo=gnubash&logoColor=#4EAA25&color=#A8B9CC)![](https://img.shields.io/badge/Shell-Fish-informational?logo=fishshell&logoColor=#34C534&color=#A8B9CC)
 - My Now Studying Architecture 正在研究和学习的架构 :arrow_right:  ![](https://img.shields.io/badge/Arch-Intel__x86__64-informational?logo=intel&logoColor=#0071C5&color=#A8B9CC)![](https://img.shields.io/badge/Arch-Arm-informational?logo=arm&logoColor=#0091BD&color=#A8B9CC)![](https://img.shields.io/badge/Arch-RISC__V-informational?logo=riscv&logoColor=#283272&color=#A8B9CC)
 - My Now Working Programming FrameWork 我正在使用的编程架构 :arrow_right:  ![](https://img.shields.io/badge/FrameWrok-Qt-informational?logo=qt&logoColor=#283272&color=#A8B9CC)
+
+## Owning Organizations
+
+I owns two representatives orgs, each trying myself do cool stuff!
+我有两个代表性的组织，分别在做一些不一样的，很酷的事情！
+
+### CinuxOS
+A custom x86_64 operating system project built with modern C/C++ features — 用现代 C/C++ 特性构建的 x86_64 操作系统
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CinuxOS&repo=Cinux)](https://github.com/CinuxOS/Cinux)
+
+### Awesome-Embedded-Learning-Studio
+An open-source community for embedded systems learning, covering Modern C++, Qt6, MCU drivers, and Embedded Linux — 面向嵌入式学习的开源社区，涵盖现代C++、Qt6、单片机驱动与嵌入式Linux
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=Awesome-Embedded)](https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded)
 
 ## Featured Projects
 
