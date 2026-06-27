@@ -10,6 +10,8 @@ I build learning systems and developer tools around low-level software, embedded
 
 我的编程领域工作涉及到了经典C, C++编程（好吧，自从搞了内核就是GNU C和它的拓展）,以及Qt6的GUI编程，操作系统（特别是Linux内核）和计算机架构研究。当然，少不了我的本职工作嵌入式软件。笔者使用的单片机更多是STM32F系列的单片机和ESP32作为研究的Chips
 
+<div align="center">
+
 [![GitHub followers](https://img.shields.io/github/followers/Charliechen114514?style=flat-square&label=Followers)](https://github.com/Charliechen114514)
 [![Awesome Embedded](https://img.shields.io/badge/Maintaining_Org-Awesome--Embedded--Learning--Studio-2bbc8a?style=flat-square)](https://github.com/Awesome-Embedded-Learning-Studio)
 
@@ -62,7 +64,6 @@ I build learning systems and developer tools around low-level software, embedded
 
 ## Owning Organizations
 
-### Awesome-Embedded-Learning-Studio
 ### Awesome-Embedded-Learning-Studio
 
 <div align="center">
