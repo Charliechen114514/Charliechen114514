@@ -37,8 +37,11 @@ I build learning systems and developer tools around low-level software, embedded
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 Embedded Linux: U-Boot, Linux kernel, rootfs, drivers
+<br/>
 嵌入式 Linux：U-Boot、Linux 内核、rootfs、驱动
+<br/>
 OSDev: x86_64 OS
+<br/>
 操作系统开发：x86_64 OS
 
 ### GUI & Tooling · GUI 与工具链
@@ -49,8 +52,11 @@ OSDev: x86_64 OS
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 Qt6 desktop and embedded UI frameworks, with a strong interest in framework internals.
+<br/>
 Qt6 桌面与嵌入式 UI 框架，并长期关注 GUI 框架底层结构。
+<br/>
 AI-assisted documentation and learning tools
+<br/>
 AI 辅助文档与学习工具
 
 ### Daily Environment · 日常环境
