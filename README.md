@@ -23,50 +23,34 @@ I build learning systems and developer tools around low-level software, embedded
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Charliechen114514)](https://git.io/streak-stats)
 
-## About my Techs and preferences
-
 ## Focus Areas · 技术方向
 
-### Systems & Embedded · 系统与嵌入式
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-17%20%7C%2020%20%7C%2023-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Kernel%20%7C%20User%20Space-FCC624?style=flat-square&logo=linux&logoColor=black)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
-Embedded Linux: U-Boot, Linux kernel, rootfs, drivers
-<br/>
-嵌入式 Linux：U-Boot、Linux 内核、rootfs、驱动
-<br/>
-OSDev: x86_64 OS
-<br/>
-操作系统开发：x86_64 OS
-
-### GUI & Tooling · GUI 与工具链
-
-![Qt](https://img.shields.io/badge/Qt-6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-Qt6 desktop and embedded UI frameworks, with a strong interest in framework internals.
-<br/>
-Qt6 桌面与嵌入式 UI 框架，并长期关注 GUI 框架底层结构。
-<br/>
-AI-assisted documentation and learning tools
-<br/>
-AI 辅助文档与学习工具
-
-### Daily Environment · 日常环境
-
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-4EAA25?style=flat-square&logo=zsh&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Systems & Embedded · 系统与嵌入式</strong><br/>
+      C / C++23 · Linux Kernel · U-Boot · Rootfs · Drivers · ARM · STM32 · ESP32<br/>
+      嵌入式 Linux、裸机驱动、x86_64 OSDev 与底层系统实验
+    </td>
+    <td width="50%" valign="top">
+      <strong>GUI & Tooling · GUI 与工具链</strong><br/>
+      Qt6 · CMake · Python · TypeScript · Docs Tooling · AI-assisted pipelines<br/>
+      Qt6 桌面/嵌入式 UI、GUI 框架剖析与 AI 辅助学习工具
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Modern C++ · 现代 C++</strong><br/>
+      C++17 / C++20 / C++23 · STL · Concurrency · Performance · Engineering<br/>
+      从语言特性到工程化实践、性能优化与开源项目研读
+    </td>
+    <td width="50%" valign="top">
+      <strong>Daily Environment · 日常环境</strong><br/>
+      Arch Linux · Ubuntu · VS Code · Qt Creator · Vim · Zsh<br/>
+      偏爱 Linux 工作流，也长期和 Qt/CMake/交叉编译工具链打交道
+    </td>
+  </tr>
+</table>
 
 ## Owning Organizations
 
