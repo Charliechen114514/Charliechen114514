@@ -36,10 +36,10 @@ I build learning systems and developer tools around low-level software, embedded
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
-- Embedded Linux: U-Boot, Linux kernel, rootfs, drivers, cross compilation, deployment.
-- 嵌入式 Linux：U-Boot、Linux 内核、rootfs、驱动、交叉编译与部署闭环。
-- OSDev: x86_64 boot, kernel infrastructure, user space, filesystem, GUI desktop experiments.
-- 操作系统开发：x86_64 启动、内核基础设施、用户态、文件系统与 GUI 桌面实验。
+Embedded Linux: U-Boot, Linux kernel, rootfs, drivers
+嵌入式 Linux：U-Boot、Linux 内核、rootfs、驱动
+OSDev: x86_64 OS
+操作系统开发：x86_64 OS
 
 ### GUI & Tooling · GUI 与工具链
 
@@ -48,10 +48,10 @@ I build learning systems and developer tools around low-level software, embedded
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-- Qt6 desktop and embedded UI frameworks, with a strong interest in framework internals.
-- Qt6 桌面与嵌入式 UI 框架，并长期关注 GUI 框架底层结构。
-- AI-assisted documentation and learning tools, including PDF/site-to-tutorial pipelines.
-- AI 辅助文档与学习工具，包括 PDF/网站到教程站点的生成管线。
+Qt6 desktop and embedded UI frameworks, with a strong interest in framework internals.
+Qt6 桌面与嵌入式 UI 框架，并长期关注 GUI 框架底层结构。
+AI-assisted documentation and learning tools
+AI 辅助文档与学习工具
 
 ### Daily Environment · 日常环境
 
