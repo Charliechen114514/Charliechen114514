@@ -76,13 +76,13 @@ AELS is an open-source learning studio for Modern C++, MCU bare-metal developmen
 AELS 是一个面向现代 C++、MCU 裸机、嵌入式 Linux、Qt 桌面与底层系统的一站式开源学习工作室。
 <div align="center">
 
-[![Awesome-Embedded](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=Awesome-Embedded&show_owner=true&description_lines_count=2&theme=transparent&hide_border=true)](https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=Awesome-Embedded)](https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded)
 
 </div>
 
 ## Featured Projects
 
-- **Tutorial_AwesomeModernCPP** — A systematic modern C++ tutorial covering C++98–C++23, STL, concurrency, and performance optimization | 系统化现代 C++ 教程，覆盖 C++98–C++23、STL、并发与性能优化
+**Tutorial_AwesomeModernCPP** — A systematic modern C++ tutorial covering C++98–C++23, STL, concurrency, and performance optimization | 系统化现代 C++ 教程，覆盖 C++98–C++23、STL、并发与性能优化
 
 <div align="center">
 
@@ -90,7 +90,7 @@ AELS 是一个面向现代 C++、MCU 裸机、嵌入式 Linux、Qt 桌面与底�
 
 </div>
 
-- **imx-forge** — Templated i.MX6ULL build resources with uboot, kernel, and rootfs patches for fast deployment | i.MX6ULL 一键构建模板，包含 uboot、内核与根文件系统补丁
+**imx-forge** — Templated i.MX6ULL build resources with uboot, kernel, and rootfs patches for fast deployment | i.MX6ULL 一键构建模板，包含 uboot、内核与根文件系统补丁
 
 <div align="center">
 
@@ -98,7 +98,7 @@ AELS 是一个面向现代 C++、MCU 裸机、嵌入式 Linux、Qt 桌面与底�
 
 </div>
 
-- **Tutorial_AwesomeQt** — A Qt 6 encyclopedia-style tutorial for C++ developers, 118 beginner articles completed | 面向 C++ 开发者的 Qt 6 百科全书式教程
+**Tutorial_AwesomeQt** — A Qt 6 encyclopedia-style tutorial for C++ developers, 118 beginner articles completed | 面向 C++ 开发者的 Qt 6 百科全书式教程
 
 <div align="center">
 
@@ -106,7 +106,7 @@ AELS 是一个面向现代 C++、MCU 裸机、嵌入式 Linux、Qt 桌面与底�
 
 </div>
 
-- **anatomy_gui** — Open-source UI programming anatomy tutorials, dissecting how GUI frameworks work under the hood | UI 编程解剖式教程，拆解 GUI 框架底层原理
+**anatomy_gui** — Open-source UI programming anatomy tutorials, dissecting how GUI frameworks work under the hood | UI 编程解剖式教程，拆解 GUI 框架底层原理
 
 <div align="center">
 
@@ -114,7 +114,7 @@ AELS 是一个面向现代 C++、MCU 裸机、嵌入式 Linux、Qt 桌面与底�
 
 </div>
 
-- **Cinux** — An x86_64 operating system built with modern C/C++ features | 用现代 C/C++ 特性构建的 x86_64 操作系统
+**Cinux** — An x86_64 operating system built with modern C/C++ features | 用现代 C/C++ 特性构建的 x86_64 操作系统
 
 <div align="center">
 
@@ -122,7 +122,7 @@ AELS 是一个面向现代 C++、MCU 裸机、嵌入式 Linux、Qt 桌面与底�
 
 </div>
 
-- **Cinux-Book** — Full Handbook of Cinux | Cinux的开发和操作系统教程
+**Cinux-Book** — Full Handbook of Cinux | Cinux的开发和操作系统教程
 
 <div align="center">
 
@@ -130,11 +130,13 @@ AELS 是一个面向现代 C++、MCU 裸机、嵌入式 Linux、Qt 桌面与底�
 
 </div>
 
+<div align="left">
+
 ## About My Blog
 
-​	I owns my public blog in CSDN, China and CN-Blog, China and personal blog
+​I owns my public blog in CSDN, China and CN-Blog, China and personal blog
 
-​	我有自己的CSDN和博客园公开博客，还有我在github托管的私人博客：
+​我有自己的CSDN和博客园公开博客，还有我在github托管的私人博客：
 
 - :link: [charlie114514191-CSDN博客](https://blog.csdn.net/charlie114514191)
 - :link: [charliechen114514 - 博客园 (cnblogs.com)](https://www.cnblogs.com/charliechen114514-blogs)
@@ -144,19 +146,25 @@ AELS 是一个面向现代 C++、MCU 裸机、嵌入式 Linux、Qt 桌面与底�
 - :link: ​[Hello World! - Just Keep going forward!](https://charliechen114514.github.io/)
 - :link: [Hello World! - Just Keep going forward!](https://www.charliechen114514.tech/)(这是我的新博客地址，上面的已经Archive了（悲）)
 
-​	Warmly Welcomes Everyone to visit! 超级欢迎各位大爹莅临！
+​Warmly Welcomes Everyone to visit! 超级欢迎各位大爹莅临！
 
 ## Many Thanks To
 
-- My Programming Pals:
-  - Dessera: [Dessera Lab](https://dessera.github.io/)
-  - Junbo Zhao: [ZhaoJunbo's Blog](https://zhaojunbo.pages.dev/)
-  - Clouduo: [Clouduoの博客 - 什么都学不会 (clouduooo.github.io)](https://clouduooo.github.io/)
-  - Love98: [Love98's Blog - Some Simple Techs](https://blog.love98.net/)
-  - Fishy: [HNHKHNH (github.com)](https://github.com/HNHKHNH)
-- My README Profile Reference
-  - [MartinHeinz/MartinHeinz: My GitHub Profile README. Don't just fork, star it, so others can find it too! 👀](https://github.com/MartinHeinz/MartinHeinz)
-  - [anuraghazra/github-readme-stats: :zap: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats)
+My Programming Pals:
+
+- Dessera: [Dessera Lab](https://dessera.github.io/)
+- Junbo Zhao: [ZhaoJunbo's Blog](https://zhaojunbo.pages.dev/)
+- Clouduo: [Clouduoの博客 - 什么都学不会 (clouduooo.github.io)](https://clouduooo.github.io/)
+- Love98: [Love98's Blog - Some Simple Techs](https://blog.love98.net/)
+- Fishy: [HNHKHNH (github.com)](https://github.com/HNHKHNH)
+
+My README Profile Reference
+
+- [MartinHeinz/MartinHeinz: My GitHub Profile README. Don't just fork, star it, so others can find it too! 👀](https://github.com/MartinHeinz/MartinHeinz)
+
+- [anuraghazra/github-readme-stats: :zap: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <div align="center">
 
