@@ -19,7 +19,7 @@ I build learning systems and developer tools around low-level software, embedded
 
 ## About My Current Github Stats...
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Charliechen114514&hide=contribs,prs&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Charliechen114514&hide=contribs,prs&show_icons=true&theme=default)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Charliechen114514)](https://git.io/streak-stats)
 
@@ -76,7 +76,7 @@ AELS is an open-source learning studio for Modern C++, MCU bare-metal developmen
 AELS 是一个面向现代 C++、MCU 裸机、嵌入式 Linux、Qt 桌面与底层系统的一站式开源学习工作室。
 <div align="center">
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=Awesome-Embedded)](https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=Awesome-Embedded)](https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded)
 
 </div>
 
@@ -86,7 +86,7 @@ AELS 是一个面向现代 C++、MCU 裸机、嵌入式 Linux、Qt 桌面与底�
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=Tutorial_AwesomeModernCPP)](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_AwesomeModernCPP)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=Tutorial_AwesomeModernCPP)](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_AwesomeModernCPP)
 
 </div>
 
@@ -94,7 +94,7 @@ AELS 是一个面向现代 C++、MCU 裸机、嵌入式 Linux、Qt 桌面与底�
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=imx-forge)](https://github.com/Awesome-Embedded-Learning-Studio/imx-forge)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=imx-forge)](https://github.com/Awesome-Embedded-Learning-Studio/imx-forge)
 
 </div>
 
@@ -102,7 +102,7 @@ AELS 是一个面向现代 C++、MCU 裸机、嵌入式 Linux、Qt 桌面与底�
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=Tutorial_AwesomeQt)](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_AwesomeQt)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=Tutorial_AwesomeQt)](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_AwesomeQt)
 
 </div>
 
@@ -110,7 +110,7 @@ AELS 是一个面向现代 C++、MCU 裸机、嵌入式 Linux、Qt 桌面与底�
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Charliechen114514&repo=anatomy_gui)](https://github.com/Charliechen114514/anatomy_gui)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Charliechen114514&repo=anatomy_gui)](https://github.com/Charliechen114514/anatomy_gui)
 
 </div>
 
@@ -118,7 +118,7 @@ AELS 是一个面向现代 C++、MCU 裸机、嵌入式 Linux、Qt 桌面与底�
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=Cinux)](https://github.com/Awesome-Embedded-Learning-Studio/Cinux)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Awesome-Embedded-Learning-Studio&repo=Cinux)](https://github.com/Awesome-Embedded-Learning-Studio/Cinux)
 
 </div>
 
@@ -126,7 +126,7 @@ AELS 是一个面向现代 C++、MCU 裸机、嵌入式 Linux、Qt 桌面与底�
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Charliechen114514&repo=Cinux)](https://github.com/Awesome-Embedded-Learning-Studio/Cinux-Book)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Charliechen114514&repo=Cinux)](https://github.com/Awesome-Embedded-Learning-Studio/Cinux-Book)
 
 </div>
 
